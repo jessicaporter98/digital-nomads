@@ -1,0 +1,19 @@
+
+body {
+    background-color: #173;
+  }
+
+  h1 {
+    color: #0128;
+    margin-left: 20px;
+  
+  }
+
+  p.double {border-style: double;}
+
+  
+  div {
+    background-color: #173;
+    opacity: 0.3;
+  }
+
