@@ -1,21 +1,28 @@
 
 body {
-    background-color: #ffff99;
+    background-color: #17abb61f;
     
 
   }
 
   h1 {
-    color: #0128;
+    color: rgb(14, 49, 63);
     margin-left: 20px;
   
   }
 
-  p.double {border-style: double;}
-
+  h1 {
+    border: 5px double;
+  }
   
+  h3 {
+    border:double
+  }
+
   div {
     background-color: ;
     
   }
+
+
 
